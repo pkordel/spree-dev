@@ -1,3 +1,6 @@
 [submodule "vendor/spree"]
 	path = vendor/spree
 	url = git@github.com:pkordel/spree.git
+[submodule "vendor/extensions/i18n"]
+	path = vendor/extensions/i18n
+	url = http://github.com/railsdog/spree-i18n.git

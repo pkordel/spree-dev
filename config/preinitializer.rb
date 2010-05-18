@@ -1,0 +1,1 @@
+SPREE_EXTENSIONS_LOAD_ORDER = [:i18n, :theme_default, :all, :site]
